@@ -77,20 +77,20 @@ if operation==division
 return division
 else:
 remain
-<Header.Html>
-Covid Strings Calculator User Input 
-The User Input For The Covid Strings Calculator 
-<Doctype.Html>
-<Html>
-<Body>
-Label For User Actions In Covid Strings 
-Input Type=”Text” Id=”Name”
-<Script>
-Document.Getelementbyid(Name)Add.Eventlistener(Input,Event)
-Console.Log(Current Input +Event.Target.Value)
-<Script>
-<Body>
-<Html>
+<header.html>
+covid strings calculator user input 
+the user input for the covid strings calculator 
+<doctype.html>
+<html>
+<body>
+label for user actions in covid strings 
+input type=”text” id=”name”
+<script>
+document.getelementbyid(name)add.eventlistener(input,event)
+console.log(current input+event.target.value)
+<script>
+<body>
+<html>
 user in select covid strings calculator
 <subheading.html>
 calculator interface
@@ -257,340 +257,340 @@ if user prompt covid strings team thought box==correct answer:
 return answer 
 else:
 check answer
-<SUBHEADING.HTML>
-BURGUNDY THOUGHT BOX
-THOUGHT BOX FOR BURGUNDY REBUILDERS
-<DOCTYPE.HTML>
-<HTML LANG “EN”>
-<HEAD>
-UTF8
-“VIEWPORT” CONTENT =WIDTH DEVICE -WIDTH INITIAL SCALE 1.0
-<TITLE> THOGUHT BOX /<TITLE>
-<STYLE>
-BODY{
-FONT FAMILY ARIAL SANS SERIF
-DISPLAY: FLEX
-JUSTIFY CONTENT:CENTER
-ALIGN  ITEMS:CENTER
-HEIGHT 100VH;
-BACKGROUND-COLOR:F0F0F0
-THOUGHT BOX 
-BACKGROUND COLOR FFF
-PADDING 20PX
-BORDER RADIUS 10PX
-BOX-SHADOW 00 10PX RGBA(0,0,0,0.1);
-DISPLAY 
-WIDTH 300PX
-TEXT ALIGN CENTER
-THOUGHT BOX INPUT 
-WIDTH  80%
-PADDING: 10PX;
-MARGIN-BOTTOM: 10PX;
-BORDER: 1PX SOLID CCC
-BORDER-RADIUS 5PX
-THOUGHT BOX BUTTON
-PADDING 10PX, 20PX
-BORDER-RADIUS 5PX
-BACKGROUND COLOR 007BFF
-Color: Fff
-Cursor: Pointer;
-THOUGHT BOX HOVER BUTTON
-BACKGROUND COLOR 0056B3
-THOUGHT DISPLAY 
-MARGIN-TOP 20PX;
-FONT-SIZE 1.2EM
-COLOR 333
-<STYLE/>
-</HEAD>
-<BODY>
-<DIV CLASS= “THOUGHT BOX”
-INPUT TYPE= “TEXT” ID=”THOUGHT INPUT” 
-CLICK ON BUTTON DISPLAY THOUGHT> SUBMIT</ BUTTON>
-DIV CLASS THOUGHT DISPLAY  ID=”THOUGHT DISPLAY
-</DIV>
-<SCRIPT>
-DISPLAY THOUGHT
-THOUGHT INPUT=DOCUMENT.GETELEMENT BY ID (‘THOUGHT INPUT) .VALUE
-THOUGHT DISPLAY =DOCUMENT.GETELEMENT BY ID(‘THOUGHT DISPLAY’)
-THOUGHT DISPLAY. TEXT CONTENT= THOUGHT INPUT 
-<SCRIPT>
-</BODY>
-</HTML>
-<SUBHEADING.HTML>
-BLUE THOUGHT BOX
-THOUGHT BOX FOR BLUE CURVE CRUSHERS
-<DOCTYPE.HTML>
-<HTML LANG “EN”>
-<HEAD>
-UTF8
-“VIEWPORT” CONTENT =WIDTH DEVICE -WIDTH INITIAL SCALE 1.0
-<TITLE> THOGUHT BOX /<TITLE>
-<STYLE>
-BODY{
-FONT FAMILY ARIAL SANS SERIF
-DISPLAY: FLEX
-JUSTIFY CONTENT:CENTER
-ALIGN  ITEMS:CENTER
-HEIGHT 100VH;
-BACKGROUND-COLOR:F0F0F0
-THOUGHT BOX 
-BACKGROUND COLOR FFF
-PADDING 20PX
-BORDER RADIUS 10PX
-BOX-SHADOW 00 10PX RGBA(0,0,0,0.1);
-DISPLAY 
-WIDTH 300PX
-TEXT ALIGN CENTER
-THOUGHT BOX INPUT 
-WIDTH  80%
-PADDING: 10PX;
-MARGIN-BOTTOM: 10PX;
-BORDER: 1PX SOLID CCC
-BORDER-RADIUS 5PX
-THOUGHT BOX BUTTON
-PADDING 10PX, 20PX
-BORDER-RADIUS 5PX
-BACKGROUND COLOR 007BFF
-Color: Fff
-Cursor: Pointer;
-THOUGHT BOX HOVER BUTTON
-BACKGROUND COLOR 0056B3
-THOUGHT DISPLAY 
-MARGIN-TOP 20PX;
-FONT-SIZE 1.2EM
-COLOR 333
-<STYLE/>
-</HEAD>
-<BODY>
-<DIV CLASS= “THOUGHT BOX”
-INPUT TYPE= “TEXT” ID=”THOUGHT INPUT” 
-CLICK ON BUTTON DISPLAY THOUGHT> SUBMIT</ BUTTON>
-DIV CLASS THOUGHT DISPLAY  ID=”THOUGHT DISPLAY
-</DIV>
-<SCRIPT>
-DISPLAY THOUGHT
-THOUGHT INPUT=DOCUMENT.GETELEMENT BY ID (‘THOUGHT INPUT) .VALUE
-THOUGHT DISPLAY =DOCUMENT.GETELEMENT BY ID(‘THOUGHT DISPLAY’)
-THOUGHT DISPLAY. TEXT CONTENT= THOUGHT INPUT 
-<SCRIPT>
-</BODY>
-</HTML>
-<SUBHEADING.HTML>
-VIOLET THOUGHT BOX
-THOUGHT BOX FOR VIOLET RELIEVERS
-<DOCTYPE.HTML>
-<HTML LANG “EN”>
-<HEAD>
-UTF8
-“VIEWPORT” CONTENT =WIDTH DEVICE -WIDTH INITIAL SCALE 1.0
-<TITLE> THOGUHT BOX /<TITLE>
-<STYLE>
-BODY{
-FONT FAMILY ARIAL SANS SERIF
-DISPLAY: FLEX
-JUSTIFY CONTENT:CENTER
-ALIGN  ITEMS:CENTER
-HEIGHT 100VH;
-BACKGROUND-COLOR:F0F0F0
-THOUGHT BOX 
-BACKGROUND COLOR FFF
-PADDING 20PX
-BORDER RADIUS 10PX
-BOX-SHADOW 00 10PX RGBA(0,0,0,0.1);
-DISPLAY 
-WIDTH 300PX
-TEXT ALIGN CENTER
-THOUGHT BOX INPUT 
-WIDTH  80%
-PADDING: 10PX;
-MARGIN-BOTTOM: 10PX;
-BORDER: 1PX SOLID CCC
-BORDER-RADIUS 5PX
-THOUGHT BOX BUTTON
-PADDING 10PX, 20PX
-BORDER-RADIUS 5PX
-BACKGROUND COLOR 007BFF
-Color: Fff
-Cursor: Pointer;
-THOUGHT BOX HOVER BUTTON
-BACKGROUND COLOR 0056B3
-THOUGHT DISPLAY 
-MARGIN-TOP 20PX;
-FONT-SIZE 1.2EM
-COLOR 333
-<STYLE/>
-</HEAD>
-<BODY>
-<DIV CLASS= “THOUGHT BOX”
-INPUT TYPE= “TEXT” ID=”THOUGHT INPUT” 
-CLICK ON BUTTON DISPLAY THOUGHT> SUBMIT</ BUTTON>
-DIV CLASS THOUGHT DISPLAY  ID=”THOUGHT DISPLAY
-</DIV>
-<SCRIPT>
-DISPLAY THOUGHT
-THOUGHT INPUT=DOCUMENT.GETELEMENT BY ID (‘THOUGHT INPUT) .VALUE
-THOUGHT DISPLAY =DOCUMENT.GETELEMENT BY ID(‘THOUGHT DISPLAY’)
-THOUGHT DISPLAY. TEXT CONTENT= THOUGHT INPUT 
-<SCRIPT>
-</BODY>
-</HTML>
-<SUBHEADING.HTML>
-RED THOUGHT BOX
-THOUGHT BOX FOR RED PROTEIN SPIKERS
-<DOCTYPE.HTML>
-<HTML LANG “EN”>
-<HEAD>
-UTF8
-“VIEWPORT” CONTENT =WIDTH DEVICE -WIDTH INITIAL SCALE 1.0
-<TITLE> THOGUHT BOX /<TITLE>
-<STYLE>
-BODY{
-FONT FAMILY ARIAL SANS SERIF
-DISPLAY: FLEX
-JUSTIFY CONTENT:CENTER
-ALIGN  ITEMS:CENTER
-HEIGHT 100VH;
-BACKGROUND-COLOR:F0F0F0
-THOUGHT BOX 
-BACKGROUND COLOR FFF
-PADDING 20PX
-BORDER RADIUS 10PX
-BOX-SHADOW 00 10PX RGBA(0,0,0,0.1);
-DISPLAY 
-WIDTH 300PX
-TEXT ALIGN CENTER
-THOUGHT BOX INPUT 
-WIDTH  80%
-PADDING: 10PX;
-MARGIN-BOTTOM: 10PX;
-BORDER: 1PX SOLID CCC
-BORDER-RADIUS 5PX
-THOUGHT BOX BUTTON
-PADDING 10PX, 20PX
-BORDER-RADIUS 5PX
-BACKGROUND COLOR 007BFF
-Color: Fff
-Cursor: Pointer;
-THOUGHT BOX HOVER BUTTON
-BACKGROUND COLOR 0056B3
-THOUGHT DISPLAY 
-MARGIN-TOP 20PX;
-FONT-SIZE 1.2EM
-COLOR 333
-<STYLE/>
-</HEAD>
-<BODY>
-<DIV CLASS= “THOUGHT BOX”
-INPUT TYPE= “TEXT” ID=”THOUGHT INPUT” 
-CLICK ON BUTTON DISPLAY THOUGHT> SUBMIT</ BUTTON>
-DIV CLASS THOUGHT DISPLAY  ID=”THOUGHT DISPLAY
-</DIV>
-<SCRIPT>
-DISPLAY THOUGHT
-THOUGHT INPUT=DOCUMENT.GETELEMENT BY ID (‘THOUGHT INPUT) .VALUE
-THOUGHT DISPLAY =DOCUMENT.GETELEMENT BY ID(‘THOUGHT DISPLAY’)
-THOUGHT DISPLAY. TEXT CONTENT= THOUGHT INPUT 
-<SCRIPT>
-</BODY>
-</HTML>
-<SUBHEADING.HTML>
-Turquoise Box
-THOUGHT BOX FOR Turquoise Waves 
-<DOCTYPE.HTML>
-<HTML LANG “EN”>
-<HEAD>
-UTF8
-“VIEWPORT” CONTENT =WIDTH DEVICE -WIDTH INITIAL SCALE 1.0
-<TITLE> THOGUHT BOX /<TITLE>
-<STYLE>
-BODY{
-FONT FAMILY ARIAL SANS SERIF
-DISPLAY: FLEX
-JUSTIFY CONTENT:CENTER
-ALIGN  ITEMS:CENTER
-HEIGHT 100VH;
-BACKGROUND-COLOR:F0F0F0
-THOUGHT BOX 
-BACKGROUND COLOR FFF
-PADDING 20PX
-BORDER RADIUS 10PX
-BOX-SHADOW 00 10PX RGBA(0,0,0,0.1);
-DISPLAY 
-WIDTH 300PX
-TEXT ALIGN CENTER
-THOUGHT BOX INPUT 
-WIDTH  80%
-PADDING: 10PX;
-MARGIN-BOTTOM: 10PX;
-BORDER: 1PX SOLID CCC
-BORDER-RADIUS 5PX
-THOUGHT BOX BUTTON
-PADDING 10PX, 20PX
-BORDER-RADIUS 5PX
-BACKGROUND COLOR 007BFF
-Color: Fff
-Cursor: Pointer;
-THOUGHT BOX HOVER BUTTON
-BACKGROUND COLOR 0056B3
-THOUGHT DISPLAY 
-MARGIN-TOP 20PX;
-FONT-SIZE 1.2EM
-COLOR 333
-<STYLE/>
-</HEAD>
-<BODY>
-<DIV CLASS= “THOUGHT BOX”
-INPUT TYPE= “TEXT” ID=”THOUGHT INPUT” 
-CLICK ON BUTTON DISPLAY THOUGHT> SUBMIT</ BUTTON>
-DIV CLASS THOUGHT DISPLAY  ID=”THOUGHT DISPLAY
-</DIV>
-<SCRIPT>
-DISPLAY THOUGHT
-THOUGHT INPUT=DOCUMENT.GETELEMENT BY ID (‘THOUGHT INPUT) .VALUE
-THOUGHT DISPLAY =DOCUMENT.GETELEMENT BY ID(‘THOUGHT DISPLAY’)
-THOUGHT DISPLAY. TEXT CONTENT= THOUGHT INPUT 
-<SCRIPT>
-</BODY>
-</HTML>
-<SUBHEADING.HTML>
-Pink BOX
-THOUGHT BOX FOR Pink Covid Disease Fighters
-<DOCTYPE.HTML>
-<HTML LANG “EN”>
-<HEAD>
-UTF8
-“VIEWPORT” CONTENT =WIDTH DEVICE -WIDTH INITIAL SCALE 1.0
-<TITLE> THOGUHT BOX /<TITLE>
-<STYLE>
-BODY{
-FONT FAMILY ARIAL SANS SERIF
-DISPLAY: FLEX
-JUSTIFY CONTENT:CENTER
-ALIGN  ITEMS:CENTER
-HEIGHT 100VH;
-BACKGROUND-COLOR:F0F0F0
-THOUGHT BOX 
-BACKGROUND COLOR FFF
-PADDING 20PX
-BORDER RADIUS 10PX
-BOX-SHADOW 00 10PX RGBA(0,0,0,0.1);
-DISPLAY 
-WIDTH 300PX
-TEXT ALIGN CENTER
-THOUGHT BOX INPUT 
-WIDTH  80%
-PADDING: 10PX;
-MARGIN-BOTTOM: 10PX;
-BORDER: 1PX SOLID CCC
-BORDER-RADIUS 5PX
-THOUGHT BOX BUTTON
-PADDING 10PX, 20PX
-BORDER-RADIUS 5PX
-BACKGROUND COLOR 007BFF
-Color: Fff
-Cursor: Pointer;
-THOUGHT BOX HOVER BUTTON
-BACKGROUND COLOR 0056B3
+<sub heading.html>
+burgundy thought box
+thought for burgundy rebuilders
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display: flex
+justify content:center
+align  items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click button display thought>sumbit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+blue thought box
+thought box for blue curve crushers
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width  80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input
+<script>
+</body>
+</html>
+<sub heading.html>
+violet thought box
+thought box for violet relievers
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+red thought box
+thought box for red protein spikers
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width  80%
+padding: 10px;
+margin-bottom: 10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input
+<script>
+</body>
+</html>
+<sub heading.html>
+turquoise box
+thought box for turquoise waves 
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arail sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display
+width 300px
+text align center
+thought box input 
+width  80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor: pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input
+<script>
+</body>
+</html>
+<sub heading.html>
+pink box
+thought box for pink covid disease fighters
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify contnet:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom: 10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
 THOUGHT DISPLAY 
 MARGIN-TOP 20PX;
 FONT-SIZE 1.2EM
